@@ -5,7 +5,7 @@ A playful, responsive egg-boiling timer built with **React, Vite, JavaScript and
 
 ## 🚀 Live Website
 
-🔗  https://hirunihem.github.io/Egg-Timer/
+🔗  https://hirunihem.github.io/Egg-timer/
 
 ## Features
 
