@@ -29,14 +29,3 @@ The selected preset is stored in React state. When the user starts cooking, the 
 - **Cancel:** returns to egg selection.
 - **Finish:** displays the completed state and plays a short chime if sound is enabled.
 
-The alarm is generated with the browser's Web Audio API, so no separate audio file is required. Browsers may restrict audio until the user interacts with the page; starting the timer provides that interaction.
-
-```
-
-## Important cooking note
-
-The preset times are illustrative starting points, not guaranteed food-safety or doneness instructions. Egg size, starting temperature, altitude, water temperature and cooking method can affect the result. Follow reliable food-safety guidance for your location and needs.
-
----
-
-Made with React, Vite and a little egg-citement. 🍳
