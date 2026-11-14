@@ -2,6 +2,11 @@
 
 A playful, responsive egg-boiling timer built with **React, Vite, JavaScript and CSS**. Choose the egg style you want, start the countdown, watch the progress bar, and hear a gentle chime when the timer finishes.
 
+
+## 🚀 Live Website
+
+🔗  https://hirunihem.github.io/Egg-Timer/
+
 ## Features
 
 - Five preset egg styles: 6, 7, 8, 10 and 12 minutes
